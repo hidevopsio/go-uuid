@@ -1,4 +1,4 @@
-module go.uuid
+module github.com/hidevopsio/go.uuid
 
 go 1.22.5
 
